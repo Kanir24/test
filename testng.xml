@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="1">
+	
+	<test name="TestNGPOM">
+		<classes>
+			<class name="TestNGPOM.Class1">
+			</class>
+			<class name ="TestNGPOM.Class2">
+			</class>
+			<class name ="TestNGPOM.Class3">
+			</class>
+		</classes>
+	</test> <!-- Test -->	
+
+</suite> <!-- Suite -->
